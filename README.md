@@ -37,7 +37,8 @@ check in browser
 ------------------------------------------------------------
 ## Day 2: Syntax, variables, types, conditions & loops
 
-1. Commnets: `<?php //one line comment
+1. Commnets: <br\>
+`<?php //one line comment
 				/*
 				multi 
 				line commnet
