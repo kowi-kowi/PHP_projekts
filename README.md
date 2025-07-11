@@ -34,3 +34,14 @@ check in browser
 `http://localhost/index.php`
 
 
+------------------------------------------------------------
+## Day 2: Syntax, variables, types, conditions & loops
+
+1. Commnets: `<?php //one line comment
+				/*
+				multi 
+				line commnet
+				*/
+				?>'
+
+
