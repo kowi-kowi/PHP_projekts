@@ -1,6 +1,6 @@
 # PHP_projekts
 
-##Install LAMP on Rasbery PI
+## Install LAMP on Rasbery PI
 
 1. Update system:
 `sudo apt update && sudo apt upgrade -y`
