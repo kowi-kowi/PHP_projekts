@@ -38,13 +38,9 @@ check in browser
 ## Day 2: Syntax, variables, types, conditions & loops
 
 1. Commnets:
-<pre lang="markdown"> ```<?php 
-				//one line comment
-				/*
-				multi 
-				line commnet
-				*/ 
-				?>``` </pre>
+<pre lang="markdown"> ```<?php
+phpinfo();
+?>`` </pre>
 
 
 
